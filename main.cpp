@@ -12,5 +12,6 @@ int main (){
 //=======
 	std::cout << "mnozenie" << a*10;
 //>>>>>>> feature/multiplication
+	std::cout << "dzielenie:" << a/10;
 	return 0;
 }
